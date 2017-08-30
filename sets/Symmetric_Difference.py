@@ -1,0 +1,9 @@
+N = input()
+set1 = set(input().split(' '))
+M = input()
+set2 = set(input().split(' '))
+l3=[]
+l3+=list(map(int, set1.difference(set2)))
+l3+= list(map(int, set2.difference(set1)))
+l3= sorted(l3)
+print(*l3, sep='\n')
