@@ -2,23 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ad204f9-cd41-48ea-a3cf-2fdd7e8a1709" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Basic_Data_Types/List Comprehensions.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Basic_Data_Types/Nested Lists.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes/Find_th_Torsional_Angle.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Numpy/Array Mathematics.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Numpy/Arrays.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Numpy/Concatenate.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Numpy/Eye and Identity.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Numpy/Floor, Ceil and Rint.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Numpy/Shape_and_Reshape.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Numpy/Sum and Prod.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Numpy/Transpose_and_Flatten.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Numpy/Zeros_and_Ones.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Numpy/aa" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sets/No Idea!.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sets/Symmetric_Difference.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Capitalize.py" afterPath="$PROJECT_DIR$/strings/Capitalize.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Find_a_string.py" afterPath="$PROJECT_DIR$/strings/Find_a_string.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Introduction_to_Sets.py" afterPath="$PROJECT_DIR$/sets/Introduction_to_Sets.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Loops.py" afterPath="$PROJECT_DIR$/Basic_Data_Types/Loops.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,11 +31,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Nested Lists.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Nested Lists.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Basic_Data_Types/Nested Lists.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
               <caret line="15" column="15" lean-forward="true" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Find_a_string.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/strings/Find_a_string.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -69,7 +66,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/String_Split_and_Join.py" />
         <option value="$PROJECT_DIR$/What's_Your_Name.py" />
         <option value="$PROJECT_DIR$/Mutations.py" />
         <option value="$PROJECT_DIR$/Find_a_string.py" />
@@ -120,6 +116,7 @@
         <option value="$PROJECT_DIR$/Numpy/Min and Max.py" />
         <option value="$PROJECT_DIR$/Basic_Data_Types/List Comprehensions.py" />
         <option value="$PROJECT_DIR$/Basic_Data_Types/Nested Lists.py" />
+        <option value="$PROJECT_DIR$/strings/Find_a_string.py" />
       </list>
     </option>
   </component>
@@ -165,7 +162,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Basic_Data_Types" />
+              <option name="myItemId" value="strings" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -179,27 +176,13 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Basic_Data_Types" />
+      <recent name="$PROJECT_DIR$/sets" />
+      <recent name="$PROJECT_DIR$/strings" />
       <recent name="$PROJECT_DIR$/Math" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Nested Lists">
-    <configuration default="false" name="Array Mathematics" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Numpy" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="30_days_coding" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Numpy/Array Mathematics.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.Find_a_string">
     <configuration default="false" name="Floor, Ceil and Rint" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -264,6 +247,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="30_days_coding" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic_Data_Types/Nested Lists.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Find_a_string" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/strings" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="30_days_coding" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/strings/Find_a_string.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -416,19 +416,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Array Mathematics" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Floor, Ceil and Rint" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Sum and Prod" />
-      <item index="3" class="java.lang.String" itemvalue="Python.List Comprehensions" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Nested Lists" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Floor, Ceil and Rint" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Sum and Prod" />
+      <item index="2" class="java.lang.String" itemvalue="Python.List Comprehensions" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Nested Lists" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Find_a_string" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Nested Lists" />
-        <item index="1" class="java.lang.String" itemvalue="Python.List Comprehensions" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Sum and Prod" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Floor, Ceil and Rint" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Array Mathematics" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Find_a_string" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Nested Lists" />
+        <item index="2" class="java.lang.String" itemvalue="Python.List Comprehensions" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Sum and Prod" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Floor, Ceil and Rint" />
       </list>
     </recent_temporary>
   </component>
@@ -442,17 +442,17 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24981302" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297546" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32624114" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39875388" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32624114" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39875388" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -465,13 +465,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Find_a_string.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/String_Validators.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -493,7 +486,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Introduction_to_Sets.py">
+    <entry file="file://$PROJECT_DIR$/sets/Introduction_to_Sets.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="45" />
@@ -731,7 +724,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Capitalize.py">
+    <entry file="file://$PROJECT_DIR$/strings/Capitalize.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
@@ -820,6 +813,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="15" lean-forward="true" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/strings/Find_a_string.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
         </state>
       </provider>
